@@ -24,7 +24,6 @@ void eight(){
 }
 
 void loop() {
-  
   quarter();
   eight();
   eight();
